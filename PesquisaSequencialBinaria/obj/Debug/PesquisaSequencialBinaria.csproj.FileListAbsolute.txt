@@ -1,0 +1,10 @@
+C:\GitHub\24PP\PesquisaSequencialBinaria\bin\Debug\PesquisaSequencialBinaria.exe.config
+C:\GitHub\24PP\PesquisaSequencialBinaria\bin\Debug\PesquisaSequencialBinaria.exe
+C:\GitHub\24PP\PesquisaSequencialBinaria\bin\Debug\PesquisaSequencialBinaria.pdb
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.csproj.AssemblyReference.cache
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.Form1.resources
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.Properties.Resources.resources
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.csproj.GenerateResource.cache
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.csproj.CoreCompileInputs.cache
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.exe
+C:\GitHub\24PP\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.pdb
