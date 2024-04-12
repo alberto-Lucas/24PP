@@ -1,0 +1,10 @@
+C:\GitHub\24PP\Pilha\bin\Debug\Pilha.exe.config
+C:\GitHub\24PP\Pilha\bin\Debug\Pilha.exe
+C:\GitHub\24PP\Pilha\bin\Debug\Pilha.pdb
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.csproj.AssemblyReference.cache
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.Form1.resources
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.Properties.Resources.resources
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.csproj.GenerateResource.cache
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.csproj.CoreCompileInputs.cache
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.exe
+C:\GitHub\24PP\Pilha\obj\Debug\Pilha.pdb
