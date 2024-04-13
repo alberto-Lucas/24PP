@@ -1,0 +1,10 @@
+C:\GitHub\24PP\AppPilha\bin\Debug\AppPilha.exe.config
+C:\GitHub\24PP\AppPilha\bin\Debug\AppPilha.exe
+C:\GitHub\24PP\AppPilha\bin\Debug\AppPilha.pdb
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.csproj.AssemblyReference.cache
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.Form1.resources
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.Properties.Resources.resources
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.csproj.GenerateResource.cache
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.csproj.CoreCompileInputs.cache
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.exe
+C:\GitHub\24PP\AppPilha\obj\Debug\AppPilha.pdb
