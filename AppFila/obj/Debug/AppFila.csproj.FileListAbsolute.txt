@@ -1,0 +1,10 @@
+C:\GitHub\24PP\AppFila\bin\Debug\AppFila.exe.config
+C:\GitHub\24PP\AppFila\bin\Debug\AppFila.exe
+C:\GitHub\24PP\AppFila\bin\Debug\AppFila.pdb
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.csproj.AssemblyReference.cache
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.Form1.resources
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.Properties.Resources.resources
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.csproj.GenerateResource.cache
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.csproj.CoreCompileInputs.cache
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.exe
+C:\GitHub\24PP\AppFila\obj\Debug\AppFila.pdb
